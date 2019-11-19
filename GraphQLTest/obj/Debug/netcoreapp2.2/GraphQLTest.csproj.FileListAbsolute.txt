@@ -1,0 +1,16 @@
+C:\Users\SIRIUS-07\source\repos\GraphQLTest\GraphQLTest\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\SIRIUS-07\source\repos\GraphQLTest\GraphQLTest\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\SIRIUS-07\source\repos\GraphQLTest\GraphQLTest\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\SIRIUS-07\source\repos\GraphQLTest\GraphQLTest\bin\Debug\netcoreapp2.2\GraphQLTest.deps.json
+C:\Users\SIRIUS-07\source\repos\GraphQLTest\GraphQLTest\bin\Debug\netcoreapp2.2\GraphQLTest.runtimeconfig.json
+C:\Users\SIRIUS-07\source\repos\GraphQLTest\GraphQLTest\bin\Debug\netcoreapp2.2\GraphQLTest.runtimeconfig.dev.json
+C:\Users\SIRIUS-07\source\repos\GraphQLTest\GraphQLTest\bin\Debug\netcoreapp2.2\GraphQLTest.dll
+C:\Users\SIRIUS-07\source\repos\GraphQLTest\GraphQLTest\bin\Debug\netcoreapp2.2\GraphQLTest.pdb
+C:\Users\SIRIUS-07\source\repos\GraphQLTest\GraphQLTest\obj\Debug\netcoreapp2.2\GraphQLTest.csprojAssemblyReference.cache
+C:\Users\SIRIUS-07\source\repos\GraphQLTest\GraphQLTest\obj\Debug\netcoreapp2.2\GraphQLTest.RazorAssemblyInfo.cache
+C:\Users\SIRIUS-07\source\repos\GraphQLTest\GraphQLTest\obj\Debug\netcoreapp2.2\GraphQLTest.RazorAssemblyInfo.cs
+C:\Users\SIRIUS-07\source\repos\GraphQLTest\GraphQLTest\obj\Debug\netcoreapp2.2\GraphQLTest.AssemblyInfoInputs.cache
+C:\Users\SIRIUS-07\source\repos\GraphQLTest\GraphQLTest\obj\Debug\netcoreapp2.2\GraphQLTest.AssemblyInfo.cs
+C:\Users\SIRIUS-07\source\repos\GraphQLTest\GraphQLTest\obj\Debug\netcoreapp2.2\GraphQLTest.RazorTargetAssemblyInfo.cache
+C:\Users\SIRIUS-07\source\repos\GraphQLTest\GraphQLTest\obj\Debug\netcoreapp2.2\GraphQLTest.dll
+C:\Users\SIRIUS-07\source\repos\GraphQLTest\GraphQLTest\obj\Debug\netcoreapp2.2\GraphQLTest.pdb
